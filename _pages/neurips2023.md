@@ -12,13 +12,6 @@ social: true
 <!-- <td style="text-align:center"><img src="assets/img/workshop-votes.png" height="170"></td> <br />
 <td style="text-align:justify"><a href="https://bit.ly/bugs-orals">Vote Best Oral</a> | <a href="https://bit.ly/bugs-posters">Vote Best Poster</a></td> <br /> -->
 
-<style>
-  mark {
-    background-color: #ccccff;  /* Changes highlight */
-    color: #4444ff;             /* Changes text color */
-  }
-</style>
-
 How will the design-build-test-learn loops be run and steered in scientific discovery and development work, given the machine learning advances in generative models, sequential decision making, experimental design, human-AI collaboration, and advances in AI4Science in multiple domains?
 
 ### **Motivation and Scope** 
@@ -158,8 +151,8 @@ Please and submit the anonymised draft via
 
 Please use <a href="assets/template/Formatting_Instructions_For_NGDL_ELLIS_UnConference_2026.zip">**our LaTeX template**</a>, 
 with the option 
-    <mark>**\usepackage[dblblindworkshop]{neurips_2026}**</mark> for submission and 
-    <mark>**\usepackage[dblblindworkshop, final]{neurips_2026}**</mark> for a camera-ready version. 
+    <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">\usepackage[dblblindworkshop]{ngdl_2026}</span> for submission and 
+    <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">\usepackage[dblblindworkshop, final]{ngdl_2026}</span> for a camera-ready version. 
 All accepted submissions will be showcased in the poster session, 
 and three selected contributions will be invited to give lightning talks. 
 The key dates are given as follows.
@@ -170,7 +163,7 @@ The key dates are given as follows.
  
 **Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">**ELLIS UnConference 2026**</a>. 
 
-For any questions, please reach out to: <a href="newgendiscloop@gmail.com">newgendiscloop@gmail.com</a>; 
+For any questions, please reach out to: <a href="newgendiscloop@gmail.com">newgendiscloop@gmail.com</a>; <br>
 for more details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
 
 ### **Organising Team**
