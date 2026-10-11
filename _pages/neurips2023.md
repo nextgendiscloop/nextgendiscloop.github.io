@@ -12,6 +12,13 @@ social: true
 <!-- <td style="text-align:center"><img src="assets/img/workshop-votes.png" height="170"></td> <br />
 <td style="text-align:justify"><a href="https://bit.ly/bugs-orals">Vote Best Oral</a> | <a href="https://bit.ly/bugs-posters">Vote Best Poster</a></td> <br /> -->
 
+<style>
+  mark {
+    background-color: #ccccff;  /* Changes highlight */
+    color: #4444ff;             /* Changes text color */
+  }
+</style>
+
 How will the design-build-test-learn loops be run and steered in scientific discovery and development work, given the machine learning advances in generative models, sequential decision making, experimental design, human-AI collaboration, and advances in AI4Science in multiple domains?
 
 ### **Motivation and Scope** 
@@ -147,9 +154,13 @@ with unlimited references and optional appendices;
 paper will be judged by the merits of the main text. 
 Please and submit the anonymised draft via
 
-* **Submission website:** <a href="https://openreview.net/group?id=ELLIS/2026/Workshop/NGDL&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">ELLIS 2026 Workshop NGDL</a> (OpenReview).
+* **Submission website:** <a href="https://openreview.net/group?id=ELLIS/2026/Workshop/NGDL&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">**ELLIS 2026 Workshop NGDL**</a> (OpenReview).
 
-We will announce the submission paper format details soon. All accepted submissions will be showcased in the poster session, 
+Please use <a href="assets/template/Formatting_Instructions_For_NGDL_ELLIS_UnConference_2026.zip">**our LaTeX template**</a>, 
+with the option 
+    <mark>**\usepackage[dblblindworkshop]{neurips_2026}**</mark> for submission and 
+    <mark>**\usepackage[dblblindworkshop, final]{neurips_2026}**</mark> for a camera-ready version. 
+All accepted submissions will be showcased in the poster session, 
 and three selected contributions will be invited to give lightning talks. 
 The key dates are given as follows.
 
@@ -157,7 +168,7 @@ The key dates are given as follows.
 - **Author notification:** 7th November  2026 (anywhere on earth)
 - **Workshop date:** 8th December 2026
  
-**Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
+**Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">**ELLIS UnConference 2026**</a>. 
 
 For any questions, please reach out to: <a href="newgendiscloop@gmail.com">newgendiscloop@gmail.com</a>; 
 for more details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
