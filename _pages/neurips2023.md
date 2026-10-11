@@ -55,19 +55,19 @@ In particular, it will foster dialogue across multiple ELLIS Research Programmes
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Opening</td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 15 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 20 mins </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 1: Max Welling <span style="color:blue"> </span>  </td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 15 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 20 mins </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 2: Tom Rainforth <span style="color:blue"> </span> </td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 15 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 20 mins </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 3: Andrew Howes <span style="color:blue"> </span> </td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 15 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 20 mins </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 4: Anna Scaife <span style="color:blue"> </span> </td>
         </tr>
         <tr>
@@ -75,7 +75,7 @@ In particular, it will foster dialogue across multiple ELLIS Research Programmes
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of the three selected contributions </td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 45 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 25 mins </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Panel discussion with speakers </td>
         </tr>
         <tr>
@@ -114,7 +114,13 @@ The schedule will be allocated within the workshop date (8th Dec) but to be anno
   <tr></tr>
 </table>
 
-### **Panel Discussion: TBC** 
+### **Panel Discussion**
+
+This interactive discussion will be with the panel including all speakers, regarding the main Workshop Questions WQ1 to WQ3 
+and the relevant questions from both in-person attendees and online participants, collected via an online form. 
+The questions can be also regarding four invited talks or the lightning talk. By this, we provide 
+a chance to interact among the participants including the speakers and audiences, both online and offline.
+Further details will be announced including additional panel members, if any. 
 
 ### **Call for Submissions**
 
@@ -239,4 +245,24 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
     </td>
   </tr>
   <tr></tr>
+</table>
+
+### **Organizers Affiliations**
+
+<table style="width:100%; align: left; border: none; spacing: none">
+  <tr style="border: none; spacing: none"> 
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.ai-fun.manchester.ac.uk"><img src="assets/img/inst-umanchester.jpg" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.ox.ac.uk"><img src="assets/img/inst-oxford.png" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.aalto.fi/en/department-of-computer-science"><img src="assets/img/inst-aalto-univ.jpg" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://deepmind.google"><img src="assets/img/inst-deepmind.jpg" height="100"></a></td>
+  </tr>
+</table>
+
+<table>
+  <tr style="border: none; spacing: none"> 
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.turing.ac.uk"><img src="assets/img/inst-alan-turing.png" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.chalmers.se/en"><img src="assets/img/inst-chalmers.jpg" height="100"></a></td>    
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.astrazeneca.com"><img src="assets/img/inst-astrazeneca.jpg" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://ethz.ch/en.html"><img src="assets/img/inst-eth-zurich.jpg" height="100"></a></td>
+  </tr>
 </table>
