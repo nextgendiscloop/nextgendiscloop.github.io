@@ -158,7 +158,7 @@ Please and submit the anonymised draft via
 Please use <a href="assets/template/Formatting_Instructions_For_NGDL_ELLIS_UnConference_2026.zip">**our LaTeX template**</a>, 
 with the option 
     <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">\usepackage[dblblindworkshop]{ngdl_2026}</span> for submission and 
-    <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">\usepackage[dblblindworkshop, final]{ngdl_2026}</span> for a camera-ready version. 
+    <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">\usepackage[dblblindworkshop, final]{ngdl_2026}</span> for a final version after acceptance. 
 All accepted submissions will be showcased in the poster session, 
 and three selected contributions will be invited to give lightning talks. 
 The key dates are given as follows.
