@@ -9,16 +9,13 @@ description:
 social: true
 ---
 
+
 <!-- <td style="text-align:center"><img src="assets/img/workshop-votes.png" height="170"></td> <br />
 <td style="text-align:justify"><a href="https://bit.ly/bugs-orals">Vote Best Oral</a> | <a href="https://bit.ly/bugs-posters">Vote Best Poster</a></td> <br /> -->
 
-<p style="margin-top:-30px;font-size:large">ELLIS UnConference 2026 Workshop on December 8, at 14-16 in Paris</p>
-
-<br>
+<p style="margin-top:-30px;font-size:large">ELLIS UnConference 2026 Workshop on December 8, at 14:00-16:00 in Paris</p>
 
 How will the design-build-test-learn loops be run and steered in scientific discovery and development work, given the machine learning advances in generative models, sequential decision making, experimental design, human-AI collaboration, and advances in AI4Science in multiple domains?
-
-<br>
 
 ### **Motivation and Scope** 
 Generative model-based solutions have been rapidly transformed from passive tools into active collaborators in human decision-making and discovery. 
@@ -45,8 +42,6 @@ experimental design, human-centred AI, and computational rationality, for AI-ass
 In particular, it will foster dialogue across multiple ELLIS Research Programmes, including *Interactive Learning and Interventional Representations*,
 *Human-centric Machine Learning*, and *Robust Machine Learning* while engaging closely with application-linked communities such as 
 *ELLIS Health*, *Machine Learning for Earth and Climate Sciences*, and *Machine Learning for Molecule Discovery*. 
-
-<br>
 
 ### **Program Schedule**
 
@@ -140,8 +135,6 @@ and the relevant questions from both in-person attendees, collected via an onlin
 The questions can be also regarding four invited talks or the lightning talk. By this, we provide 
 a chance to interact among the participants including the speakers and audiences, both online and offline.
 
-<br>
-
 ### **Call for Submissions**
 
 We invite non-archival submissions related to Workshop Questions WQ1–WQ3. Relevant areas include 
@@ -189,7 +182,7 @@ The key dates are:
  
 **Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">**ELLIS UnConference 2026**</a>. 
 
-For any questions, please reach out to: <a href="nextgendiscloop@gmail.com">nextgendiscloop@gmail.com</a>; <br>
+For any questions, please reach out to: <a href="mailto:nextgendiscloop@gmail.com">nextgendiscloop@gmail.com</a>; <br>
 for more details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
 
 <br>
@@ -284,7 +277,7 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
 
 <table>
   <tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://ellis.eu"><img src="assets/img/inst-ellis.png" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.ellisinstitute.fi"><img src="assets/img/inst-ellis-fin.png" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.ai-fun.manchester.ac.uk"><img src="assets/img/inst-AI-fun.png" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.chalmers.se/en"><img src="assets/img/inst-chalmers.jpg" height="100"></a></td>    
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.astrazeneca.com"><img src="assets/img/inst-astrazeneca.jpg" height="100"></a></td>
@@ -292,7 +285,7 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
   </tr>
 </table>
 
-<p style="font-size: small;"> &ast; ELLIS includes ELLIS Institute Finland, ELLIS Unit Manchester, ELLIS Unit Oxford, 
+<p style="font-size: small;"> &ast; ELLIS institute, units and programs involved in this workshop are ELLIS Institute Finland, ELLIS Unit Manchester, ELLIS Unit Oxford, 
 ELLIS Health program, ELLIS Robust ML program, ELLIS ML for Molecule Discovery program, and 
 ELLIS Interactive Learning and Interventional Representation program.
 </p>
