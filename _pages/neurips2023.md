@@ -173,6 +173,8 @@ The key dates are given as follows.
 For any questions, please reach out to: <a href="newgendiscloop@gmail.com">newgendiscloop@gmail.com</a>; <br>
 for more details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
 
+<br>
+
 ### **Organising Team**
 
 #### **ELLIS Robust ML Program**
@@ -248,11 +250,13 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
   <tr></tr>
 </table>
 
+<br>
+
 ### **Organizers Affiliations**
 
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.ai-fun.manchester.ac.uk"><img src="assets/img/inst-umanchester.jpg" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.manchester.ac.uk"><img src="assets/img/inst-umanchester.jpg" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.ox.ac.uk"><img src="assets/img/inst-oxford.png" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.aalto.fi/en/department-of-computer-science"><img src="assets/img/inst-aalto-univ.jpg" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://deepmind.google"><img src="assets/img/inst-deepmind.jpg" height="100"></a></td>
@@ -265,5 +269,23 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.chalmers.se/en"><img src="assets/img/inst-chalmers.jpg" height="100"></a></td>    
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.astrazeneca.com"><img src="assets/img/inst-astrazeneca.jpg" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://ethz.ch/en.html"><img src="assets/img/inst-eth-zurich.jpg" height="100"></a></td>
+  </tr>
+</table>
+
+### **Acknowledgements**
+
+The workshop was supported by 
+
+- The Centre for AI Fundamentals, Manchester;
+- the UKRI Turing AI World-Leading Researcher Fellowship [EP/W002973/1];
+- EU funding ERC ODD-ML 101201120;
+- ELLIS Institute Fniland; ELLIS Unit Manchester.
+
+<table>
+  <tr style="border: none; spacing: none"> 
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.ai-fun.manchester.ac.uk"><img src="assets/img/inst-AI-fun.png" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.ukri.org"><img src="assets/img/inst-UKRI-square.png" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://erc.europa.eu"><img src="assets/img/inst-erc.jpg" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://ellis.eu"><img src="assets/img/inst-ellis.png" height="100"></a></td>
   </tr>
 </table>
