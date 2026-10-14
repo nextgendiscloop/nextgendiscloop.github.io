@@ -12,6 +12,10 @@ social: true
 <!-- <td style="text-align:center"><img src="assets/img/workshop-votes.png" height="170"></td> <br />
 <td style="text-align:justify"><a href="https://bit.ly/bugs-orals">Vote Best Oral</a> | <a href="https://bit.ly/bugs-posters">Vote Best Poster</a></td> <br /> -->
 
+<p style="margin-top:-30px;font-size:large">ELLIS UnConference 2026 Workshop on December 8, at 14-16 in Paris</p>
+
+<br>
+
 How will the design-build-test-learn loops be run and steered in scientific discovery and development work, given the machine learning advances in generative models, sequential decision making, experimental design, human-AI collaboration, and advances in AI4Science in multiple domains?
 
 <br>
@@ -46,7 +50,9 @@ In particular, it will foster dialogue across multiple ELLIS Research Programmes
 
 ### **Program Schedule**
 
-The schedule is assigned to the afternoon session: 14:00 to 16:00, on the workshop date: 8th December 2026.
+The schedule is assigned to 
+<span style="font-weight: bold;background-color:#ddddff;color:#6666ff">the afternoon session: 14:00 to 16:00</span>, 
+on the workshop date: <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">8th December 2026</span>.
 
 <table style="border-collapse: collapse; width: 100%; border-top: 2px solid black; border-bottom: 2px solid black;">
     <thead>
@@ -57,35 +63,35 @@ The schedule is assigned to the afternoon session: 14:00 to 16:00, on the worksh
     </thead>
     <tbody>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 3 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 14:00~14:03 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Opening</td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 20 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 14:03~14:23 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 1: Max Welling <span style="color:blue"> </span>  </td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 20 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 14:23~14:43 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 2: Tom Rainforth <span style="color:blue"> </span> </td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 10 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 14:43~14:53 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of the three selected contributions </td>
         </tr>        
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 20 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 14:53~15:13 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 3: Andrew Howes <span style="color:blue"> </span> </td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 20 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 15:13~15:33 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 4: Anna Scaife <span style="color:blue"> </span> </td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 25 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 15:33~15:58 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Panel discussion with speakers </td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 2 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 15:58~16:00 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Closing session </td>
         </tr>
     </tbody>
@@ -99,23 +105,27 @@ The schedule is assigned to the afternoon session: 14:00 to 16:00, on the worksh
   <tr>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/speaker-max-welling-square.jpg" height="170" width="170">
-        <br> <br> <a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">Max Welling</a> 
-        <br> Professor <br> University of Amsterdam
+        <br> <br> <a href="https://amlab.science.uva.nl/people/MaxWelling">Max Welling</a> 
+        <br> Professor <br> University of Amsterdam <br>
+        <a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">[GoogleScholar]</a>
     </td>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/speaker-tom-rainforth-square.jpg" height="170" width="170">
-        <br> <br> <a href="https://scholar.google.com/citations?user=ieLRNKMAAAAJ&hl=en">Tom Rainforth</a>
-        <br> Professor <br> University of Oxford
+        <br> <br> <a href="https://www.robots.ox.ac.uk/~twgr/">Tom Rainforth</a>
+        <br> Professor <br> University of Oxford <br>
+        <a href="https://scholar.google.com/citations?user=ieLRNKMAAAAJ&hl=en">[GoogleScholar]</a>
     </td>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/speaker-andrew-howes.jpeg" height="170" width="170">
-        <br> <br> <a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">Andrew Howes</a> 
-        <br> Professor <br> University of Exeter
+        <br> <br> <a href="https://experts.exeter.ac.uk/41016-andrew-howes">Andrew Howes</a> 
+        <br> Professor <br> University of Exeter <br> 
+        <a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">[GoogleScholar]</a>
     </td>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/speaker-anna_scaife-square.jpg" height="170" width="170">
-        <br> <br> <a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> 
-        <br> Professor <br> University of Manchester
+        <br> <br> <a href="https://www.turing.ac.uk/people/researchers/anna-scaife">Anna Scaife</a> 
+        <br> Professor <br> University of Manchester <br>
+        <a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">[GoogleScholar]</a>
     </td>
   </tr>
   <tr></tr>
@@ -126,10 +136,9 @@ The schedule is assigned to the afternoon session: 14:00 to 16:00, on the worksh
 ### **Panel Discussion**
 
 This interactive discussion will be with the panel including all speakers, regarding the main Workshop Questions WQ1 to WQ3 
-and the relevant questions from both in-person attendees and online participants, collected via an online form. 
+and the relevant questions from both in-person attendees, collected via an online form. 
 The questions can be also regarding four invited talks or the lightning talk. By this, we provide 
 a chance to interact among the participants including the speakers and audiences, both online and offline.
-Further details will be announced including additional panel members, if any. 
 
 <br>
 
@@ -160,9 +169,9 @@ Submissions should be either
 1. **Abstracts** (up to 500 words), or
 2. **Short papers** (up to 4 pages), presenting preliminary results or emerging ideas. 
 
-with unlimited references and optional appendices; 
-paper will be judged by the merits of the main text. 
-Please and submit the anonymised draft via
+References and optional appendices are not limited, but  
+papers will be judged by the merits of the main text. 
+Please submit the anonymised draft via
 
 * **Submission website:** <a href="https://openreview.net/group?id=ELLIS/2026/Workshop/NGDL&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">**ELLIS 2026 Workshop NGDL**</a> (OpenReview).
 
@@ -172,15 +181,15 @@ with the option
     <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">\usepackage[dblblindworkshop, final]{ngdl_2026}</span> for a final version after acceptance. 
 All accepted submissions will be showcased in the poster session, 
 and three selected contributions will be invited to give lightning talks. 
-The key dates are given as follows.
+The key dates are:
 
 - **Submission deadline:** 4th November  2026 (anywhere on earth) 
 - **Author notification:** 12th November  2026 (anywhere on earth)
-- **Workshop date:** 8th December 2026. Our session time: 14:00 to 16:00.
+- **Workshop date:** 8th December 2026. <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">Our session time: 14:00 to 16:00</span>.
  
 **Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">**ELLIS UnConference 2026**</a>. 
 
-For any questions, please reach out to: <a href="newgendiscloop@gmail.com">newgendiscloop@gmail.com</a>; <br>
+For any questions, please reach out to: <a href="nextgendiscloop@gmail.com">nextgendiscloop@gmail.com</a>; <br>
 for more details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
 
 <br>
@@ -193,39 +202,39 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
   <tr>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/org-samuel-kaski.jpg" height="150" width="150">
-        <br> <br> <a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> Professor 
-        <br> University of Manchester <br> Aalto University <br> ELLIS Institute Finland
+        <br> <br> <a href="https://kaski-lab.com">Samuel Kaski</a> <br> Professor 
+        <br> University of Manchester <br> Aalto University <br> ELLIS Institute Finland <br> ELLIS Unit Manchester
     </td>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/org-chris-holmes.webp" height="150" width="150">
         <br> <br> <a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a> 
-        <br> Professor <br> University of Oxford <br> The Alan Turing Institute
+        <br> Professor <br> University of Oxford <br> ELLIS Unit Oxford
     </td>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/speaker-yee-why-teh-square.png" height="150" width="150">
-        <br> <br> <a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> 
-        <br> Professor <br> University of Oxford <br> Deepmind
+        <br> <br> <a href="https://www.stats.ox.ac.uk/~teh">Yee Whye Teh</a> 
+        <br> Professor <br> University of Oxford <br> Deepmind <br> ELLIS Unit Oxford
     </td>
   </tr>
   <tr></tr>
 </table>
 
-#### **Kaski's Lab** (ELLIS Institute Finland; ELLIS Unit Manchester)
+#### **Kaski Lab** (ELLIS Institute Finland; ELLIS Unit Manchester)
 <table style="width:100%">
   <tr>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/org-haripriya-harikumar-square.jpg" height="150" width="150">
-        <br> <br> <a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> 
+        <br> <br> <a href="https://haripriyaaharikumar.github.io">Haripriya Harikumar</a> 
         <br> Research Fellow <br> University of Manchester 
     </td>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/org-dmitry-kangin-square.jpg" height="150" width="150">
-        <br> <br> <a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> 
+        <br> <br> <a href="https://www.genai.ac.uk/post-docs/dmitry-kangin">Dmitry Kangin</a> 
         <br> Research Fellow <br> University of Manchester
     </td>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/org-jaeyoung-lee-square.jpg" height="150"  width="150">
-        <br> <br> <a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> 
+        <br> <br> <a href="https://jaeyounglee.netlify.app">Jaeyoung Lee</a> 
         <br> Research Fellow <br> University of Manchester
     </td>
   </tr>
@@ -243,12 +252,12 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
   <tr>
     <td style="text-align:center; vertical-align: top; border: none">
         <img src="assets/img/speaker-ola-engkvist.jpg" height="150" width="150">
-        <br> <br> <a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> 
+        <br> <br> <a href="https://www.linkedin.com/in/ola-engkvist-8a23947">Ola Engqvist</a> 
         <br> Head Molecular AI <br> AstraZeneca <br> Chalmers Univ. of Tech.
     </td>
     <td style="text-align:center; vertical-align: top; border: none">
         <img src="assets/img/org-magnus-rattray-square.jpg" height="150" width="150">
-        <br> <br> <a href="https://scholar.google.com/citations?user=FyB7r1IAAAAJ&hl=en">Magnus Rattray</a> 
+        <br> <br> <a href="https://www.cruk.manchester.ac.uk/team-member/magnus-rattray">Magnus Rattray</a> 
         <br> Professor <br> University of Manchester
     </td>
     <td style="text-align:center; vertical-align: top; border: none">
@@ -275,12 +284,18 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
 
 <table>
   <tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.turing.ac.uk"><img src="assets/img/inst-alan-turing.png" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://ellis.eu"><img src="assets/img/inst-ellis.png" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.ai-fun.manchester.ac.uk"><img src="assets/img/inst-AI-fun.png" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.chalmers.se/en"><img src="assets/img/inst-chalmers.jpg" height="100"></a></td>    
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.astrazeneca.com"><img src="assets/img/inst-astrazeneca.jpg" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://ethz.ch/en.html"><img src="assets/img/inst-eth-zurich.jpg" height="100"></a></td>
   </tr>
 </table>
+
+<p style="font-size: small;"> &ast; ELLIS includes ELLIS Institute Finland, ELLIS Unit Manchester, ELLIS Unit Oxford, 
+ELLIS Health program, ELLIS Robust ML program, ELLIS ML for Molecule Discovery program, and 
+ELLIS Interactive Learning and Interventional Representation program.
+</p>
 
 <br>
 
@@ -288,19 +303,17 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
 
 This work was supported by _The Centre for AI Fundamentals, Manchester_,
 _the UKRI Turing AI World-Leading Researcher Fellowship [EP/W002973/1]_,
-_EU funding ERC ODD-ML 101201120_ *,
-_ELLIS Institute Finland_, and  _ELLIS Unit Manchester_.
+and _EU funding ERC ODD-ML 101201120_ *.
 
 <table>
   <tr style="border: none; spacing: none"> 
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.ai-fun.manchester.ac.uk"><img src="assets/img/inst-AI-fun.png" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.ukri.org"><img src="assets/img/inst-UKRI-square.png" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://erc.europa.eu"><img src="assets/img/inst-erc.png" height="100"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://ellis.eu"><img src="assets/img/inst-ellis.png" height="100"></a></td>
   </tr>
 </table>
 
-<p style="font-size: xx-small;"> &ast; Views and opinions expressed are however those of the author(s) only 
+<p style="font-size: small;"> &ast; Views and opinions expressed are however those of the author(s) only 
 and do not necessarily reflect those of the European Union 
 or the European Research Council Executive Agency. 
 Neither the European Union nor the granting authority can be held responsible for them.
