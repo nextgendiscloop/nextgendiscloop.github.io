@@ -42,6 +42,8 @@ In particular, it will foster dialogue across multiple ELLIS Research Programmes
 
 ### **Program Schedule**
 
+The schedule is assigned to the afternoon session (14:00 to 16:00pm).
+
 <table style="border-collapse: collapse; width: 100%; border-top: 2px solid black; border-bottom: 2px solid black;">
     <thead>
         <tr style="border-bottom: 1px solid black;">
@@ -63,16 +65,16 @@ In particular, it will foster dialogue across multiple ELLIS Research Programmes
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 2: Tom Rainforth <span style="color:blue"> </span> </td>
         </tr>
         <tr>
+            <td style="text-align: center; padding: 4px 8px;"> 10 mins </td>
+            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of the three selected contributions </td>
+        </tr>        
+        <tr>
             <td style="text-align: center; padding: 4px 8px;"> 20 mins </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 3: Andrew Howes <span style="color:blue"> </span> </td>
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 20 mins </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 4: Anna Scaife <span style="color:blue"> </span> </td>
-        </tr>
-        <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 10 mins </td>
-            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of the three selected contributions </td>
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 25 mins </td>
@@ -84,7 +86,6 @@ In particular, it will foster dialogue across multiple ELLIS Research Programmes
         </tr>
     </tbody>
 </table>
-The schedule will be allocated within the workshop date (8th Dec) but to be announced later.
 
 ### **Speakers**
 
