@@ -275,6 +275,7 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
   </tr>
 </table>
 
+
 <table>
   <tr style="border: none; spacing: none"> 
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.ellisinstitute.fi"><img src="assets/img/inst-ellis-fin.png" height="100"></a></td>
