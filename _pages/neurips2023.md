@@ -42,7 +42,7 @@ In particular, it will foster dialogue across multiple ELLIS Research Programmes
 
 ### **Program Schedule**
 
-The schedule is assigned to the afternoon session (14:00 to 16:00pm).
+The schedule is assigned to the afternoon session: 14:00 to 16:00, on the workshop date: 8th December 2026.
 
 <table style="border-collapse: collapse; width: 100%; border-top: 2px solid black; border-bottom: 2px solid black;">
     <thead>
@@ -166,7 +166,7 @@ The key dates are given as follows.
 
 - **Submission deadline:** 4th November  2026 (anywhere on earth) 
 - **Author notification:** 12th November  2026 (anywhere on earth)
-- **Workshop date:** 8th December 2026
+- **Workshop date:** 8th December 2026. Our session time: 14:00 to 16:00.
  
 **Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">**ELLIS UnConference 2026**</a>. 
 
