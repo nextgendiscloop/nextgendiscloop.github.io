@@ -164,8 +164,8 @@ All accepted submissions will be showcased in the poster session,
 and three selected contributions will be invited to give lightning talks. 
 The key dates are given as follows.
 
-- **Submission deadline:** 30th October  2026 (anywhere on earth) 
-- **Author notification:** 7th November  2026 (anywhere on earth)
+- **Submission deadline:** 4th November  2026 (anywhere on earth) 
+- **Author notification:** 12th November  2026 (anywhere on earth)
 - **Workshop date:** 8th December 2026
  
 **Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">**ELLIS UnConference 2026**</a>. 
