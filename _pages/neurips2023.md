@@ -14,6 +14,8 @@ social: true
 
 How will the design-build-test-learn loops be run and steered in scientific discovery and development work, given the machine learning advances in generative models, sequential decision making, experimental design, human-AI collaboration, and advances in AI4Science in multiple domains?
 
+<br>
+
 ### **Motivation and Scope** 
 Generative model-based solutions have been rapidly transformed from passive tools into active collaborators in human decision-making and discovery. 
 AI-powered Design-Build-Test-Learn (DBTL) loops already generate hypotheses and candidate designs for scientific discovery, invoke computational tools, design experiments, and participate in increasingly automated laboratories, together with the human researcher in the loop. 
@@ -39,6 +41,8 @@ experimental design, human-centred AI, and computational rationality, for AI-ass
 In particular, it will foster dialogue across multiple ELLIS Research Programmes, including *Interactive Learning and Interventional Representations*,
 *Human-centric Machine Learning*, and *Robust Machine Learning* while engaging closely with application-linked communities such as 
 *ELLIS Health*, *Machine Learning for Earth and Climate Sciences*, and *Machine Learning for Molecule Discovery*. 
+
+<br>
 
 ### **Program Schedule**
 
@@ -87,6 +91,8 @@ The schedule is assigned to the afternoon session: 14:00 to 16:00, on the worksh
     </tbody>
 </table>
 
+<br>
+
 ### **Speakers**
 
 <table style="width:100%">
@@ -115,6 +121,8 @@ The schedule is assigned to the afternoon session: 14:00 to 16:00, on the worksh
   <tr></tr>
 </table>
 
+<br>
+
 ### **Panel Discussion**
 
 This interactive discussion will be with the panel including all speakers, regarding the main Workshop Questions WQ1 to WQ3 
@@ -122,6 +130,8 @@ and the relevant questions from both in-person attendees and online participants
 The questions can be also regarding four invited talks or the lightning talk. By this, we provide 
 a chance to interact among the participants including the speakers and audiences, both online and offline.
 Further details will be announced including additional panel members, if any. 
+
+<br>
 
 ### **Call for Submissions**
 
