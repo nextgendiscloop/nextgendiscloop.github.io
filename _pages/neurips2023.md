@@ -272,14 +272,14 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
   </tr>
 </table>
 
+<br>
+
 ### **Acknowledgements**
 
-The workshop was supported by 
-
-- The Centre for AI Fundamentals, Manchester;
-- the UKRI Turing AI World-Leading Researcher Fellowship [EP/W002973/1];
-- EU funding ERC ODD-ML 101201120;
-- ELLIS Institute Fniland; ELLIS Unit Manchester.
+This workshop was supported by _The Centre for AI Fundamentals, Manchester_,
+_the UKRI Turing AI World-Leading Researcher Fellowship [EP/W002973/1]_,
+_EU funding ERC ODD-ML 101201120_,
+_ELLIS Institute Fniland_, and  _ELLIS Unit Manchester_.
 
 <table>
   <tr style="border: none; spacing: none"> 
