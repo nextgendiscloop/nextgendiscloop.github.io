@@ -276,16 +276,22 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
 
 ### **Acknowledgements**
 
-This workshop was supported by _The Centre for AI Fundamentals, Manchester_,
+This work was supported by _The Centre for AI Fundamentals, Manchester_,
 _the UKRI Turing AI World-Leading Researcher Fellowship [EP/W002973/1]_,
-_EU funding ERC ODD-ML 101201120_,
-_ELLIS Institute Fniland_, and  _ELLIS Unit Manchester_.
+_EU funding ERC ODD-ML 101201120_ *,
+_ELLIS Institute Finland_, and  _ELLIS Unit Manchester_.
 
 <table>
   <tr style="border: none; spacing: none"> 
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.ai-fun.manchester.ac.uk"><img src="assets/img/inst-AI-fun.png" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.ukri.org"><img src="assets/img/inst-UKRI-square.png" height="100"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://erc.europa.eu"><img src="assets/img/inst-erc.jpg" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://erc.europa.eu"><img src="assets/img/inst-erc.png" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://ellis.eu"><img src="assets/img/inst-ellis.png" height="100"></a></td>
   </tr>
 </table>
+
+<p style="font-size: xx-small;"> &ast; Views and opinions expressed are however those of the author(s) only 
+and do not necessarily reflect those of the European Union 
+or the European Research Council Executive Agency. 
+Neither the European Union nor the granting authority can be held responsible for them.
+</p>
