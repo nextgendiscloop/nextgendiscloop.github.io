@@ -186,7 +186,8 @@ with the option
     <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">\usepackage[dblblindworkshop, final]{ngdl_2026}</span> for a final version after acceptance. 
 All accepted submissions will be showcased in the poster session, 
 and three selected contributions will be invited to give lightning talks. 
-The key dates are:
+
+#### **Important Dates and Deadlines**
 
 - **Submission deadline:** 4th November  2026 (anywhere on earth) 
 - **Author notification:** 12th November  2026 (anywhere on earth)
@@ -324,3 +325,12 @@ and do not necessarily reflect those of the European Union
 or the European Research Council Executive Agency. 
 Neither the European Union nor the granting authority can be held responsible for them.
 </p>
+
+### **FAQ**
+
+* <span style="font-weight: bold;color:#6666ff">Do contributions need to be unpublished?</span>
+<br> No, it is not necessary, we welcome any submissions within the scope of the workshop.
+
+
+* <span style="font-weight: bold;color:#6666ff">Can the submissions be opinion papers to spark workshop discussion?</span> 
+<br> Yes, the opinion papers are very welcome, and will be assessed by the reviewers on their contribution and alignment of scope with the workshop.  
