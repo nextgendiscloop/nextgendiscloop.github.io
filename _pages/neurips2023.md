@@ -72,26 +72,26 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
             <a href="https://www.robots.ox.ac.uk/~twgr/">Tom Rainforth</a> </td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;&nbsp;14:40~14:50 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;&nbsp;14:40~14:15 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of the three selected contributions </td>
         </tr>        
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;&nbsp;14:50~15:10 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;&nbsp;14:55~15:15 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 3: 
             <a href="https://experts.exeter.ac.uk/41016-andrew-howes">Andrew Howes</a> </td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;&nbsp;15:10~15:30 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;&nbsp;15:15~15:35 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 4: 
             <a href="https://www.turing.ac.uk/people/researchers/anna-scaife">Anna Scaife</a> </td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px"> &nbsp;&nbsp;15:30~16:00 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px"> &nbsp;&nbsp;15:35~16:00 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Panel discussion with speakers (moderator: <a href="https://www.stats.ox.ac.uk/~teh">Yee Whye Teh</a>)</td>
         </tr>
         <tr>
             <td style="text-align: left; padding: 4px; border-left: 1px"> &nbsp;&nbsp;16:00 </td>
-            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Closing session </td>
+            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Closing </td>
         </tr>
     </tbody>
 </table>
@@ -309,7 +309,7 @@ ELLIS Interactive Learning and Interventional Representation program.
 
 This work was supported by _The Centre for AI Fundamentals, Manchester_,
 _the UKRI Turing AI World-Leading Researcher Fellowship [EP/W002973/1]_,
-and _EU funding ERC ODD-ML 101201120_ *.
+and _EU (ERC ODD-ML 101201120)_ *.
 
 <table>
   <tr style="border: none; spacing: none"> 
