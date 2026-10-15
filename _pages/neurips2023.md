@@ -67,30 +67,30 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
             <a href="https://amlab.science.uva.nl/people/MaxWelling">Max Welling</a> </td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;14:20~14:40 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> 14:20~14:40 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 2: 
             <a href="https://www.robots.ox.ac.uk/~twgr/">Tom Rainforth</a> </td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;14:40~14:50 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> 14:40~14:50 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of the three selected contributions </td>
         </tr>        
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;14:50~15:10 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> 14:50~15:10 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 3: 
             <a href="https://experts.exeter.ac.uk/41016-andrew-howes">Andrew Howes</a> </td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;15:10~15:30 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> 15:10~15:30 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 4: 
             <a href="https://www.turing.ac.uk/people/researchers/anna-scaife">Anna Scaife</a> </td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px"> &nbsp;15:30~16:00 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px"> 15:30~16:00 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Panel discussion with speakers (moderator: <a href="https://www.stats.ox.ac.uk/~teh">Yee Whye Teh</a>)</td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px"> &nbsp;16:00 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px"> 16:00 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Closing session </td>
         </tr>
     </tbody>
