@@ -324,7 +324,3 @@ and do not necessarily reflect those of the European Union
 or the European Research Council Executive Agency. 
 Neither the European Union nor the granting authority can be held responsible for them.
 </p>
-
-<meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
-<meta http-equiv='pragma' content='no-cache'>
