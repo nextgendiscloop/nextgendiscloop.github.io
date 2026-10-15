@@ -52,45 +52,45 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
 <table style="border-collapse: collapse; width: 100%; border-top: 2px solid black; border-bottom: 2px solid black;">
     <thead>
         <tr style="border-bottom: 1px solid black;">
-            <th style="white-space: nowrap; padding: 8px; text-align: center;">Time</th>
+            <th style="width: 95px; padding: 8px; text-align: left;"> &nbsp;Time</th>
             <th style="padding: 8px; text-align: center; border-left: 1px solid black;">Event</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> 14:00 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;14:00 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Opening</td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> 14:00~14:20 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;14:00~14:20 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 1: 
             <a href="https://amlab.science.uva.nl/people/MaxWelling">Max Welling</a> </td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> 14:20~14:40 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;14:20~14:40 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 2: 
             <a href="https://www.robots.ox.ac.uk/~twgr/">Tom Rainforth</a> </td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> 14:40~14:50 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;14:40~14:50 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of the three selected contributions </td>
         </tr>        
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> 14:50~15:10 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;14:50~15:10 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 3: 
             <a href="https://experts.exeter.ac.uk/41016-andrew-howes">Andrew Howes</a> </td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> 15:10~15:30 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;15:10~15:30 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 4: 
             <a href="https://www.turing.ac.uk/people/researchers/anna-scaife">Anna Scaife</a> </td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px"> 15:30~16:00 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px"> &nbsp;15:30~16:00 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Panel discussion with speakers (moderator: <a href="https://www.stats.ox.ac.uk/~teh">Yee Whye Teh</a>)</td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px"> 16:00 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px"> &nbsp;16:00 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Closing session </td>
         </tr>
     </tbody>
@@ -104,9 +104,11 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
   <tr>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/speaker-max-welling-square.jpg" height="170" width="170">
-        <br> <br> <a href="https://amlab.science.uva.nl/people/MaxWelling">Max Welling</a> 
+        <br> <br> <a href="https://amlab.science.uva.nl/people/MaxWelling">Max Welling</a>
         <br> Professor <br> University of Amsterdam <br>
-        <a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">[GoogleScholar]</a>
+        <a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">
+            <img src="assets/img/google-scholar.jpg" alt="" style="width: 30px; height: auto;">
+        </a>
     </td>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/speaker-tom-rainforth-square.jpg" height="170" width="170">
