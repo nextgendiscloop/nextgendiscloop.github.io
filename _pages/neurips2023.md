@@ -298,7 +298,7 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
   </tr>
 </table>
 
-<p style="font-size: small;"> &ast; ELLIS institute, units and programs involved in this workshop are ELLIS Institute Finland, ELLIS Unit Manchester, ELLIS Unit Oxford, 
+<p style="font-size: small;"> ELLIS institute, units and programs involved in this workshop are ELLIS Institute Finland, ELLIS Unit Manchester, ELLIS Unit Oxford, 
 ELLIS Health program, ELLIS Robust ML program, ELLIS ML for Molecule Discovery program, and 
 ELLIS Interactive Learning and Interventional Representation program.
 </p>
