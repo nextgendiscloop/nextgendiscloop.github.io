@@ -107,7 +107,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
         <br> <br> <a href="https://amlab.science.uva.nl/people/MaxWelling">Max Welling</a>
         <br> Professor <br> University of Amsterdam <br>
         <a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">
-            <img src="assets/img/google-scholar.jpg" alt="" style="width: 30px; height: auto;">
+            [GoogleScholar]
         </a>
     </td>
     <td style="text-align:center; vertical-align: top">
