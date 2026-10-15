@@ -52,7 +52,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
 <table style="border-collapse: collapse; width: 100%; border-top: 2px solid black; border-bottom: 2px solid black;">
     <thead>
         <tr style="border-bottom: 1px solid black;">
-            <th style="padding: 8px; text-align: center;">Time</th>
+            <th style="white-space: nowrap; padding: 8px; text-align: center;">Time</th>
             <th style="padding: 8px; text-align: center; border-left: 1px solid black;">Event</th>
         </tr>
     </thead>
