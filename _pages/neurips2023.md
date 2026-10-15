@@ -43,6 +43,8 @@ In particular, it will foster dialogue across multiple ELLIS Research Programmes
 *Human-centric Machine Learning*, and *Robust Machine Learning* while engaging closely with application-linked communities such as 
 *ELLIS Health*, *Machine Learning for Earth and Climate Sciences*, and *Machine Learning for Molecule Discovery*. 
 
+<div style="height: 0.5em;"></div>
+
 ### **Program Schedule**
 
 The schedule is assigned to 
@@ -96,7 +98,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
     </tbody>
 </table>
 
-<br>
+<div style="height: 0.5em;"></div>
 
 ### **Speakers**
 
@@ -138,7 +140,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
   <tr></tr>
 </table>
 
-<br>
+<div style="height: 0.5em;"></div>
 
 ### **Panel Discussion**
 
@@ -146,6 +148,8 @@ This interactive discussion will be with the panel including all speakers, regar
 and the relevant questions from both in-person attendees, collected via an online form. 
 The questions can be also regarding four invited talks or the lightning talk. By this, we provide 
 a chance to interact among the participants including the speakers and audiences, both online and offline.
+
+<div style="height: 0.5em;"></div>
 
 ### **Call for Submissions**
 
@@ -198,7 +202,7 @@ and three selected contributions will be invited to give lightning talks.
 For any questions, please reach out to: <a href="mailto:nextgendiscloop@gmail.com">nextgendiscloop@gmail.com</a>; <br>
 for more details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
 
-<br>
+<div style="height: 0.5em;"></div>
 
 ### **Organising Team**
 
@@ -275,7 +279,7 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
   <tr></tr>
 </table>
 
-<br>
+<div style="height: 0.5em;"></div>
 
 ### **Organizers Affiliations**
 
@@ -304,7 +308,7 @@ ELLIS Health program, ELLIS Robust ML program, ELLIS ML for Molecule Discovery p
 ELLIS Interactive Learning and Interventional Representation program.
 </p>
 
-<br>
+<div style="height: 0.5em;"></div>
 
 ### **Acknowledgements**
 
@@ -325,6 +329,8 @@ and do not necessarily reflect those of the European Union
 or the European Research Council Executive Agency. 
 Neither the European Union nor the granting authority can be held responsible for them.
 </p>
+
+<div style="height: 0.5em;"></div>
 
 ### **FAQ**
 
