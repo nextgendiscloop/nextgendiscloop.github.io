@@ -105,7 +105,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/speaker-max-welling-square.jpg" height="170" width="170">
         <br> <br> <a href="https://amlab.science.uva.nl/people/MaxWelling">Max Welling</a>
-        <br> Professor <br> University of Amsterdam <br>
+        <br> Professor <br> University of Amsterdam <div style="height: 0.5em;"></div>
         <a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">
             <img src="assets/img/google-scholar.jpg" alt="" style="width: 30px; height: auto;">
         </a>
@@ -113,7 +113,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/speaker-tom-rainforth-square.jpg" height="170" width="170">
         <br> <br> <a href="https://www.robots.ox.ac.uk/~twgr/">Tom Rainforth</a>
-        <br> Professor <br> University of Oxford <br>
+        <br> Professor <br> University of Oxford <div style="height: 0.5em;"></div>
         <a href="https://scholar.google.com/citations?user=ieLRNKMAAAAJ&hl=en">
             <img src="assets/img/google-scholar.jpg" alt="" style="width: 30px; height: auto;">
         </a>
@@ -121,7 +121,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/speaker-andrew-howes.jpeg" height="170" width="170">
         <br> <br> <a href="https://experts.exeter.ac.uk/41016-andrew-howes">Andrew Howes</a> 
-        <br> Professor <br> University of Exeter <br> 
+        <br> Professor <br> University of Exeter <div style="height: 0.5em;"></div>
         <a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">
             <img src="assets/img/google-scholar.jpg" alt="" style="width: 30px; height: auto;">
         </a>
@@ -129,7 +129,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/speaker-anna_scaife-square.jpg" height="170" width="170">
         <br> <br> <a href="https://www.turing.ac.uk/people/researchers/anna-scaife">Anna Scaife</a> 
-        <br> Professor <br> University of Manchester <br>
+        <br> Professor <br> University of Manchester <div style="height: 0.5em;"></div>
         <a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">
             <img src="assets/img/google-scholar.jpg" alt="" style="width: 30px; height: auto;">
         </a>
