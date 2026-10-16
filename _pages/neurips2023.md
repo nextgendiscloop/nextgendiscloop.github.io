@@ -160,7 +160,11 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
 
 ### **Panel Discussion**
 
-The panel discussion will bring together all speakers to address the questions WQ1-WQ3, and the questions from the audience. The questions from the audience will be collected from in-person attendees via an online form. By this, we provide a chance to interact between the speakers and audiences, both online and offline.
+The panel discussion will bring together all speakers to address the questions WQ1-WQ3, 
+and the questions from the audience. 
+The questions from the audience will be collected from attendees via an online form, 
+providing the opportunity for participants to engage in the workshop.
+
 <div style="height: 0.5em;"></div>
 
 ### **Call for Submissions**
