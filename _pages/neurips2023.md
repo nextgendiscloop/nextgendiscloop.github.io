@@ -74,7 +74,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
             <a href="https://www.robots.ox.ac.uk/~twgr/">Tom Rainforth</a> </td>
         </tr>
         <tr>
-            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;&nbsp;14:40~14:15 </td>
+            <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;&nbsp;14:40~14:55 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of the three selected contributions </td>
         </tr>        
         <tr>
@@ -160,11 +160,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
 
 ### **Panel Discussion**
 
-This interactive discussion will be with the panel including all speakers, regarding the main Workshop Questions WQ1 to WQ3 
-and the relevant questions from both in-person attendees, collected via an online form. 
-The questions can be also regarding four invited talks or the lightning talk. By this, we provide 
-a chance to interact among the participants including the speakers and audiences, both online and offline.
-
+The panel discussion will bring together all speakers to address the questions WQ1-WQ3, and the questions from the audience. The questions from the audience will be collected from in-person attendees via an online form. By this, we provide a chance to interact between the speakers and audiences, both online and offline.
 <div style="height: 0.5em;"></div>
 
 ### **Call for Submissions**
