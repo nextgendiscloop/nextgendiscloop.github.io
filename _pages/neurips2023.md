@@ -71,7 +71,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
         <tr>
             <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;&nbsp;14:20~14:40 </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 2: 
-            <a href="https://www.robots.ox.ac.uk/~twgr/">Tom Rainforth</a> </td>
+            <a href="https://www.stats.ox.ac.uk/people/tom-rainforth">Tom Rainforth</a> </td>
         </tr>
         <tr>
             <td style="text-align: left; padding: 4px; border-left: 1px "> &nbsp;&nbsp;14:40~14:55 </td>
@@ -118,7 +118,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
     </td>
     <td style="text-align:center; vertical-align: top">
         <img src="assets/img/speaker-tom-rainforth-square.jpg" height="170" width="170">
-        <br> <br> <a href="https://www.robots.ox.ac.uk/~twgr/">Tom Rainforth</a>
+        <br> <br> <a href="https://www.stats.ox.ac.uk/people/tom-rainforth">Tom Rainforth</a>
         <div style="height: 0.5em;"></div> Professor <br> University of Oxford 
         <div style="height: 0.5em;"></div><div style="height: 0.5em;"></div>
         <a href="https://scholar.google.com/citations?user=ieLRNKMAAAAJ&hl=en">
@@ -161,7 +161,7 @@ on the workshop date: <span style="font-weight: bold;background-color:#ddddff;co
 ### **Panel Discussion**
 
 The panel discussion will bring together all speakers to address the questions WQ1-WQ3, 
-and the questions from the audience. 
+ and the questions from the audience. 
 The questions from the audience will be collected from attendees via an online form, 
 providing the opportunity for participants to engage in the workshop.
 
