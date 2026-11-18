@@ -48,8 +48,8 @@ In particular, it will foster dialogue across multiple ELLIS Research Programmes
 ### **Program Schedule**
 
 The schedule is assigned to 
-<span style="font-weight: bold;background-color:#ddddff;color:#6666ff">the afternoon session: 14:00 to 16:00</span>, 
-on the workshop date: <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">8th December 2026</span>.
+<span class="hl">the afternoon session: 14:00 to 16:00</span>, 
+on the workshop date: <span class="hl">8th December 2026</span>.
 
 <table style="border-collapse: collapse; width: 100%; border-top: 2px solid black; border-bottom: 2px solid black;">
     <thead>
@@ -202,8 +202,8 @@ Please submit the anonymised draft via
 
 Please use <a href="assets/template/Formatting_Instructions_For_NGDL_ELLIS_UnConference_2026.zip">**our LaTeX template**</a>, 
 with the option 
-    <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">\usepackage[dblblindworkshop]{ngdl_2026}</span> for submission and 
-    <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">\usepackage[dblblindworkshop, final]{ngdl_2026}</span> for a final version after acceptance. 
+    <span class="hl">\usepackage[dblblindworkshop]{ngdl_2026}</span> for submission and 
+    <span class="hl">\usepackage[dblblindworkshop, final]{ngdl_2026}</span> for a final version after acceptance. 
 All accepted submissions will be showcased in the poster session, 
 and three selected contributions will be invited to give lightning talks. 
 
@@ -211,12 +211,30 @@ and three selected contributions will be invited to give lightning talks.
 
 - **Submission deadline:** 4th November  2026 (anywhere on earth) 
 - **Author notification:** 12th November  2026 (anywhere on earth)
-- **Workshop date:** 8th December 2026. <span style="font-weight: bold;background-color:#ddddff;color:#6666ff">Our session time: 14:00 to 16:00</span>.
+- **Workshop date:** 8th December 2026. <span class="hl">Our session time: 14:00 to 16:00</span>.
  
-**Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">**ELLIS UnConference 2026**</a>. 
+#### **Accepted Submissions: Important Notes for Authors**
+1. Please prepare and submit a camera-ready version of your paper with the authors’ names and details included by <span class="hl">1st December</span> 2026 (anywhere on earth), using the LaTex option <span class="hl">\usepackage[dblblindworkshop, final]{ngdl_2026}</span>. The accepted papers are to be listed on this webpage after this due date. 
+2. You may also address the reviewers’ comments and make further updates to the paper until <span class="hl">6th December</span> 2026 (anywhere on earth). The accepted papers will be showcased through the links after the deadline, unless the authors notify us otherwise.
+2. Please also make sure <span class="hl"> at least one of the authors register for the ELLIS UnConference</span>. Registration remains open and should be completed in advance on the <a href="https://ellisunconference2026.dakini-pco.com">website</a> below in order to attend the ELLIS UnConference and present your accepted paper at the workshop.
+3. Posters should be prepared and printed out with own responsibility. The poster session starts at 16:30 on the workshop date, 30min after our panel discussion. Prepare the poster with its size <span class="hl">A1, portrait (59.4 × 84.1 cm)</span>.   
+
+**Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>.
+<br>
+**Address:** 2 Place de la Porte Maillot, 75017 Paris.
+<br>
+**Registration:** Click <a href="https://ellisunconference2026.dakini-pco.com">ELLIS UnConference 2026 Registration</a> and follow the instructions.
+
+#### **Additional Information on ELLIS UnConference**
+
+**Badges:**
+ELLIS UnConference badges are handed out at the entrance from 08:00. 
+<br>
+**Arrival:** To avoid long queues, please arrive between 08:00 and 08:30 rather than right before the opening remarks at 08:30.
 
 For any questions, please reach out to: <a href="mailto:nextgendiscloop@gmail.com">nextgendiscloop@gmail.com</a>; <br>
 for more details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
+
 
 <div style="height: 0.5em;"></div>
 
